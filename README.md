@@ -9,7 +9,7 @@ Technology Stack: HTML, CSS, JS, PHP, MySQL
 
 Flow: Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.
 
-Database consist of two Tables- users Table & transaction Table
+Database consist of two Tables- users Table & transaction Table<br>
 1)User table have basic fields such as name, email & current balance.
 
 2)Transaction table records all transfers happened along with their time.
